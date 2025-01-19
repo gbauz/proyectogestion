@@ -1,1 +1,5 @@
 com\sistemaacademico\App.class
+com\sistemaacademico\Materia.class
+com\sistemaacademico\Calificacion.class
+com\sistemaacademico\Estudiante.class
+com\sistemaacademico\Usuario.class
